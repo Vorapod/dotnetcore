@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/wYXVFtF+mtTdNbd0KSroJht4/Q/uDCbzOp24PKualgip2PoNoLKAxG+vO2tZQ5B293axo4sn95+bOeQcYvwSA==",
+  "dgSpecHash": "VIMCxLBdmWkzGwTxNueZSFwZ93trDiS/f/RkdCCZJp2tnRuXBEt9MhvVhGQnqb15BuTuYyikj2oKUDUYfRkQhw==",
   "success": true,
   "projectFilePath": "/Volumes/SCK/Vorapod/dotnetcore/NetCore.Docker/NetCore.Docker.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/sck/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }
